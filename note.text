@@ -1,0 +1,27 @@
+1) write blog of Http and Http2
+
+    Http-Hyper text transfer protocol
+
+it is used to send and recive web pages and files onthe internet
+ .it was developed by trim berners-lee, and is now codinated by w3c.
+
+ http version 1.1 is mostly common used version today it is defined in RFC 2616
+
+ about half of website already use its successor http/2 and 25% of websites
+ already support its much faster successor http/3 which is the
+ latest protocol published in 2022
+
+ http2 is much faster and more relaible that http1
+
+ http1 loads a single request for every tcp connection while http2 avoids connection
+ while  http2 avoids network delay by using multipleasing. http is a network delay
+ sensitive protocol in the sence that if there is less network delay, then the page loads faster
+
+
+ 2) write a blog about object and its internal representation in js
+
+   object in js is its most important data type and forms the building blocks for mordern java script
+   these object are quit different form javascrpt primitive form javascript 
+   primitive data types (number,strings,boolen,null,undefined and symbols)
+   inthe sence that while these primative value each objec are more complex and each object may contain 
+   any combaination of these primitive data types as wel as reference data types.  
